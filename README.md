@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Urbancoder89
-- 👀 I’m interested in learning how codify
+- 👀 I’m interested in learning how to codify
 - 🌱 I’m currently learning python in visual studio code
 - 💞️ I’m looking to collaborate on every interisting project
 - 📫 How to reach me on josmicope@hotmail.com
